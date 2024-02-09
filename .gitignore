@@ -1,3 +1,6 @@
 
 .ipynb_checkpoints/Untitled-checkpoint.ipynb
 home-credit-credit-risk-model-stability.zip
+.ipynb_checkpoints/home-credit-2024-starter-notebook-checkpoint.ipynb
+*.csv
+*.parquet
